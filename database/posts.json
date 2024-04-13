@@ -1,0 +1,20 @@
+[
+    {
+        "id":"2",
+        "username":"James Miller",
+        "postTitle":"Keep the consistency",
+        "postContent":" The algorithm learns your preferences and gives you better recommendations over time."
+    },
+    {
+        "id":"3",
+        "username":"Aron Militano",
+        "postTitle":"Develop your Profile",
+        "postContent":"Coming soom..."
+    },
+    {
+        "id":"1708465017646",
+        "username":"Antony McCalister",
+        "postTitle":"Launch SpaceX",
+        "postContent":"How simple is that?"
+    }
+]
